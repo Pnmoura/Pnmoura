@@ -3,7 +3,7 @@
 
 
 ### Sinta-se a vontade para entrar em contato comigo
-[![Linkedin Badge](https://img.shields.io/badge/-pedronunesmoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedronunesmoura/)]([https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/](https://www.linkedin.com/in/pedronunesmoura/))
+[![Linkedin Badge](https://img.shields.io/badge/pedronunesmoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedronunesmoura/)]([https://www.linkedin.com/in/pedronunesmoura/](https://www.linkedin.com/in/pedronunesmoura/))
 [![Gmail Badge](https://img.shields.io/badge/-pgnunesmoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pgnunesmoura@gmail.com)](mailto:pgnunesmoura@gmail.com)
 
 ## 🚀💻 Technologias e Skills
