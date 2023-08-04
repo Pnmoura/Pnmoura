@@ -1,5 +1,5 @@
 <h1 align = "justify"> Olá 👋 , eu sou o Pedro Nunes</h1>
-<p align = "justify">Sou Desenvolvedor Fullstack na [Trade Up Group](https://www.tradeupgroup.com/), atuo diariamente com PHP, Laravel, MySQL, MongoDB, Vue, React, React Native </p>
+<p align = "justify">Sou Desenvolvedor Fullstack na [Trade Up Group](https://www.tradeupgroup.com/), atuo diariamente com PHP, Laravel, MySQL, MongoDB, DDD, hexagonal, kibana. </p>
 
 
 ### Sinta-se a vontade para entrar em contato comigo
