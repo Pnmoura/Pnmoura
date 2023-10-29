@@ -2,12 +2,13 @@
 <p align = "justify">Sou Desenvolvedor Fullstack, com conhecimentos intermediários em PHP, Laravel, MySQL, MongoDB, arquiteturas DDD, hexagonal, administração de logs com kibana (Elastic Search). </p>
 
 
-### Sinta-se a vontade para entrar em contato comigo
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedronunesmoura/)](https://www.linkedin.com/in/pedronunesmoura/)
-[![Gmail Badge](https://img.shields.io/badge/-pgnunesmoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pgnunesmoura@gmail.com)](mailto:pgnunesmoura@gmail.com)
+### Entre em contato comigo para batermos um papo .... desenvolvimento de sistemas, consultoria, refatoração de sistemas já prontos.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedronunesmoura/)](https://www.linkedin.com/in/pedronunesmoura/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:althnunes.desenvolvimento@outlook.com)
 
 ## 🚀💻 Technologias e Skills
 
+![Php](https://img.shields.io/badge/-Php-181717?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
