@@ -1,5 +1,5 @@
 <h1 align = "justify"> Olá 👋 , eu sou o Pedro Nunes</h1>
-<p align = "justify">Sou Desenvolvedor Fullstack, com conhecimentos intermediários em PHP, Laravel, MySQL, MongoDB, arquiteturas DDD, hexagonal, administração de logs com kibana (Elastic Search). </p>
+<p align = "justify">Sou Desenvolvedor Backend, com conhecimentos em PHP, Laravel, MySQL, SQL Server, Oracle, MongoDB, arquiteturas DDD, hexagonal, administração de logs com kibana (Elastic Search), integração de plataformas de e-commerce online. </p>
 
 
 ### Entre em contato comigo para batermos um papo .... desenvolvimento de sistemas, consultoria, refatoração de sistemas já prontos.
@@ -11,7 +11,6 @@
 ![Php](https://img.shields.io/badge/-Php-181717?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
