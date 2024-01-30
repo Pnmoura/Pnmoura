@@ -1,5 +1,5 @@
 <h1 align = "justify"> Olá 👋 , eu sou o Pedro Nunes</h1>
-<p align = "justify">Sou Desenvolvedor Backend, com conhecimentos em PHP, Laravel, MySQL, SQL Server, Oracle, MongoDB, arquiteturas DDD, hexagonal, administração de logs com kibana (Elastic Search), integração de plataformas de e-commerce online. </p>
+<p align = "justify">Sou Desenvolvedor Backend, com conhecimentos em PHP, Laravel, NodeJS, JavaScript, Typescript, MySQL, SQL Server, Oracle, MongoDB, arquiteturas DDD, hexagonal, clean code, sistemas como Elastic Search, integração e desenvolvimento de plataformas de e-commerce online. </p>
 
 
 ### Entre em contato comigo para batermos um papo .... desenvolvimento de sistemas, consultoria, refatoração de sistemas já prontos.
